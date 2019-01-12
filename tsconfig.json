@@ -5,6 +5,7 @@
         "target": "es2015",
         "module": "commonjs",
         "types": ["node", "jest"],
-        "outDir": "dist"
+        "outDir": "dist",
+        "declaration": true
     }
 }
