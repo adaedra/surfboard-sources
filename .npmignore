@@ -1,1 +1,5 @@
 .circleci
+tsconfig.json
+tsconfig.build.json
+src
+.prettierrc
